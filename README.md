@@ -5,6 +5,6 @@ This is the [Online Boutique](https://github.com/GoogleCloudPlatform/microservic
 To deploy the application:
 
         oc new project ms-demo
-        oc apply -f https://raw.githubusercontent.com/mostmark/microservices-demo/main/application.yaml
+        oc apply -f https://raw.githubusercontent.com/bmeklund/microservices-demo/main/application.yaml
 
 ![OpenShift Console](./images/ms-demo-screenshot1.png)
